@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "13a66c0c-17bd-423d-be59-12e18e6c0e1a",
+            "Value": {
+                "id": "0aff65bb-4ca8-465a-8c5f-cb43b2decc9b",
+                "resourcePath": "objects\\obj_enemyParent\\obj_enemyParent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "14b46ba6-8134-4697-bbf9-fecf49ba53dd",
             "Value": {
                 "id": "9f5533da-5f2e-4ea2-ac60-7582c6a500e2",
@@ -279,10 +287,26 @@
             }
         },
         {
+            "Key": "6494ab44-3e66-4672-aae0-b922da8c584a",
+            "Value": {
+                "id": "65d703f5-84b7-42dd-ab2c-d7bc870f7085",
+                "resourcePath": "views\\6494ab44-3e66-4672-aae0-b922da8c584a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6734ada5-1092-47e5-b5fb-50273409d0cb",
             "Value": {
                 "id": "7d44ff53-c0a2-4774-bec2-dc1baa6a8819",
                 "resourcePath": "sprites\\LargeBaddie_right\\LargeBaddie_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "716b57d4-303a-4ebe-af42-32b36704f4f0",
+            "Value": {
+                "id": "65ee9add-ace6-43d9-9b08-ade2719a6b54",
+                "resourcePath": "sprites\\spr_swordSlashPH\\spr_swordSlashPH.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -356,6 +380,22 @@
                 "id": "f5832b06-a9c6-42a5-af2b-1caf23584d0f",
                 "resourcePath": "views\\8e308f02-71f7-4544-8eee-7bedf7705fb3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ec7c26e-9755-46d0-b00a-158f555f4702",
+            "Value": {
+                "id": "950b5649-2c32-4738-96eb-1aafb3f39d8b",
+                "resourcePath": "views\\8ec7c26e-9755-46d0-b00a-158f555f4702.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8f490e6f-0eea-4779-aff6-4240796ed615",
+            "Value": {
+                "id": "3f81eb4e-c40e-4742-a975-a00adb8ef4a9",
+                "resourcePath": "objects\\obj_swordSlashPH\\obj_swordSlashPH.yy",
+                "resourceType": "GMObject"
             }
         },
         {
