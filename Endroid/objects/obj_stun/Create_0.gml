@@ -1,24 +1,18 @@
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 /// @DnDVersion : 1
-/// @DnDHash : 5C02A87D
+/// @DnDHash : 3DFDDAB1
 /// @DnDArgument : "x" "mouse_x"
 /// @DnDArgument : "y" "mouse_y"
 direction = point_direction(x, y, mouse_x, mouse_y);
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 /// @DnDVersion : 1
-/// @DnDHash : 48C743DF
-/// @DnDArgument : "angle" "direction -90"
-image_angle = direction -90;
+/// @DnDHash : 7DE40A08
+/// @DnDArgument : "angle" "direction"
+image_angle = direction;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 214CEB68
+/// @DnDHash : 571DB65F
 /// @DnDArgument : "speed" "5"
 speed = 5;
-
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
-/// @DnDHash : 4F814B16
-/// @DnDArgument : "steps" "10"
-alarm_set(0, 10);

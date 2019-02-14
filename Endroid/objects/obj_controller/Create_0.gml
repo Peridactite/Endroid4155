@@ -1,19 +1,7 @@
-/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 40A797D9
-/// @DnDArgument : "lives" "3"
-
-__dnd_lives = real(3);
-
-/// @DnDAction : YoYo Games.Instance Variables.Set_Health
-/// @DnDVersion : 1
-/// @DnDHash : 46D78F90
-/// @DnDArgument : "health" "3"
-
-__dnd_health = real(3);
-
-/// @DnDAction : YoYo Games.Instance Variables.Set_Score
-/// @DnDVersion : 1
-/// @DnDHash : 5791EC2E
-
-__dnd_score = real(0);
+/// @DnDHash : 20BD2B05
+/// @DnDArgument : "code" "//Player Variables$(13_10)lives = 3;$(13_10)score = 0;$(13_10)$(13_10)"
+//Player Variables
+lives = 3;
+score = 0;

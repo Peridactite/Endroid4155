@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "3955b232-b3c5-482f-996d-c5f20d2243f5",
+            "Value": {
+                "id": "3ebb1295-8280-49b4-bd5b-fb68b6290746",
+                "resourcePath": "views\\3955b232-b3c5-482f-996d-c5f20d2243f5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3b38c892-a51f-4150-b9de-c303be176cdb",
             "Value": {
                 "id": "a37dc344-da27-4763-9d41-f6ee7446b5d1",
@@ -179,6 +187,14 @@
             "Value": {
                 "id": "4ea1110e-d95c-433d-86bd-8c539b2f3ae0",
                 "resourcePath": "sprites\\Baddie_Walk_Left\\Baddie_Walk_Left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3c02a7d4-8df9-4ca5-9f43-96050c88678a",
+            "Value": {
+                "id": "17a992cf-64d2-4245-af34-27648a911482",
+                "resourcePath": "sprites\\spr_stun\\spr_stun.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -283,6 +299,14 @@
             "Value": {
                 "id": "4a61a9a7-ef8c-4bf1-83b3-0c3a68de73df",
                 "resourcePath": "objects\\obj_controller\\obj_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6083eed9-a6f0-46fc-9215-3112d21a19e8",
+            "Value": {
+                "id": "c609b2d7-9e70-4339-a6ee-57f99adf9c55",
+                "resourcePath": "objects\\obj_stun\\obj_stun.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -412,6 +436,14 @@
                 "id": "f378ab51-b2ee-4ecc-917b-a953594cbf72",
                 "resourcePath": "sprites\\sController\\sController.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "910cd0a8-e6b7-4831-9cd3-20dafba3b5d7",
+            "Value": {
+                "id": "b334f641-f965-41d3-a7be-678e41d789cb",
+                "resourcePath": "views\\910cd0a8-e6b7-4831-9cd3-20dafba3b5d7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -588,6 +620,14 @@
                 "id": "c379d816-6957-4372-a771-dd8f5062849c",
                 "resourcePath": "sprites\\sDungeonTiles\\sDungeonTiles.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cb7e335a-ba2f-4bb9-8522-eca1e11d705e",
+            "Value": {
+                "id": "a0f27396-de4d-440b-b1e2-5a0d55a8757f",
+                "resourcePath": "objects\\obj_stunPowerUp\\obj_stunPowerUp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
