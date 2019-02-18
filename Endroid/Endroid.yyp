@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "2b215a43-f4e1-437c-932e-7bbbcefb2b2d",
+            "Value": {
+                "id": "414898fe-d642-47a5-981e-f71b43af7c05",
+                "resourcePath": "objects\\obj_fire\\obj_fire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2c3e5444-f185-47c9-bd75-1edfa5feb2c7",
             "Value": {
                 "id": "d0fa1c4c-1793-4d96-89ff-58c725b4fec0",
@@ -155,6 +163,14 @@
             "Value": {
                 "id": "c589a12f-bf6c-43c4-8a29-cb46bb141b59",
                 "resourcePath": "sprites\\spr_test_tileset\\spr_test_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "370ab421-feee-43ae-ab2c-2fcf79454b02",
+            "Value": {
+                "id": "93f7e2d5-bd6e-46d3-8435-dd30413bf369",
+                "resourcePath": "sprites\\spr_firePowerUp\\spr_firePowerUp.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -228,6 +244,14 @@
                 "id": "0f8ac37b-be60-4738-af2c-193a448b774f",
                 "resourcePath": "sprites\\sPIller_half\\sPIller_half.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "47da9ccd-923a-439d-a9a4-4e3e8239c533",
+            "Value": {
+                "id": "14b30e23-4aee-4d6c-8ddb-a38ec35ac041",
+                "resourcePath": "objects\\obj_firePowerUp\\obj_firePowerUp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -548,6 +572,14 @@
                 "id": "fcdb092c-7a69-4375-a83f-9307f01973ee",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab90ea2d-5add-4308-adfd-f0db46d95dca",
+            "Value": {
+                "id": "6f49eb89-b03c-4060-8cb9-79f481e50bd9",
+                "resourcePath": "sprites\\spr_fire\\spr_fire.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

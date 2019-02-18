@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 26CAEE28
 /// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "stun"
-stun = false;
+/// @DnDArgument : "var" "stunned"
+stunned = false;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

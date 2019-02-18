@@ -8,8 +8,8 @@ with(other) instance_destroy();
 /// @DnDVersion : 1
 /// @DnDHash : 554BB46B
 /// @DnDArgument : "expr" "true"
-/// @DnDArgument : "var" "stun"
-stun = true;
+/// @DnDArgument : "var" "stunned"
+stunned = true;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
