@@ -41,13 +41,14 @@ if(can_roll)
 	/// @DnDHash : 01E518A5
 	/// @DnDParent : 5E397AED
 	/// @DnDArgument : "steps" "10"
-	/// @DnDArgument : "alarm" "1"
-	alarm_set(1, 10);
+	/// @DnDArgument : "alarm" "10"
+	alarm_set(10, 10);
 
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1
 	/// @DnDHash : 119519C5
 	/// @DnDParent : 5E397AED
 	/// @DnDArgument : "steps" "50"
-	alarm_set(0, 50);
+	/// @DnDArgument : "alarm" "11"
+	alarm_set(11, 50);
 }
