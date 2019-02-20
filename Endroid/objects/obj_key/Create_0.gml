@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 541C457C
-/// @DnDApplyTo : 90740111-7f28-4999-b1ac-0b45eaaa45cf
+/// @DnDApplyTo : ab3ba858-7032-419b-bbf4-08ade479d0c5
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "has_key"
-with(obj_Player) {
+with(obj_keydoor) {
 has_key = false;
 
 }

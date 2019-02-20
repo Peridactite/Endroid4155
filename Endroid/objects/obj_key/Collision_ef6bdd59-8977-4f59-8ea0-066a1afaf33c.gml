@@ -7,10 +7,10 @@ with(obj_key) instance_destroy();
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 570CBB81
-/// @DnDApplyTo : 90740111-7f28-4999-b1ac-0b45eaaa45cf
+/// @DnDApplyTo : ab3ba858-7032-419b-bbf4-08ade479d0c5
 /// @DnDArgument : "value" "true"
 /// @DnDArgument : "var" "has_key"
-with(obj_Player) {
+with(obj_keydoor) {
 global.has_key = true;
 
 }
