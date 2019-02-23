@@ -12,9 +12,9 @@ if(l64E5E55A_0)
 	/// @DnDHash : 58DD5E28
 	/// @DnDParent : 64E5E55A
 	/// @DnDArgument : "x" "obj_enemy2Boss.x "
-	/// @DnDArgument : "y" "obj_enemy2Boss.y-80"
+	/// @DnDArgument : "y" "obj_enemy2Boss.y"
 	x = obj_enemy2Boss.x ;
-	y = obj_enemy2Boss.y-80;
+	y = obj_enemy2Boss.y;
 
 	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 	/// @DnDVersion : 1
