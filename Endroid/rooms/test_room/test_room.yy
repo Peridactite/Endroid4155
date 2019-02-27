@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "b058c737-ddb0-446d-92bf-7a7b5b10762f"
+        "b058c737-ddb0-446d-92bf-7a7b5b10762f",
+        "c357269a-e2c1-438a-9763-54467a7acb0a"
     ],
     "IsDnD": true,
     "layers": [
@@ -108,7 +109,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_1AD60F65","id": "b058c737-ddb0-446d-92bf-7a7b5b10762f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1AD60F65","objId": "90740111-7f28-4999-b1ac-0b45eaaa45cf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 224,"y": 352}
+{"name": "inst_1AD60F65","id": "b058c737-ddb0-446d-92bf-7a7b5b10762f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1AD60F65","objId": "90740111-7f28-4999-b1ac-0b45eaaa45cf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 224,"y": 352},
+{"name": "inst_58F24D45","id": "c357269a-e2c1-438a-9763-54467a7acb0a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_58F24D45","objId": "48260948-80ee-4d0f-9cfd-e8ab9000b02b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0}
             ],
             "layers": [
 
