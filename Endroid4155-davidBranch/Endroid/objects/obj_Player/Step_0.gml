@@ -209,10 +209,10 @@ if(mouse_x > obj_Player.x && !(invulnerable))
 /// @DnDVersion : 1
 /// @DnDHash : 47837EA8
 /// @DnDInput : 2
-/// @DnDArgument : "expr" "obj_Player.x > mouse_x"
+/// @DnDArgument : "expr" "obj_Player.x >= mouse_x"
 /// @DnDArgument : "expr_1" "invulnerable"
 /// @DnDArgument : "not_1" "1"
-if(obj_Player.x > mouse_x && !(invulnerable))
+if(obj_Player.x >= mouse_x && !(invulnerable))
 {
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1

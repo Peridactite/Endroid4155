@@ -47,9 +47,9 @@ if(hp <= 0)
 	/// @DnDParent : 0297C3AD
 	/// @DnDArgument : "expr" "-1"
 	/// @DnDArgument : "expr_relative" "1"
-	/// @DnDArgument : "var" "lives"
+	/// @DnDArgument : "var" "lifes_remaining"
 	with(obj_controller) {
-	lives += -1;
+	lifes_remaining += -1;
 	
 	}
 }
