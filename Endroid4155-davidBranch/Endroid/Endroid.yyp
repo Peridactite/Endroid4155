@@ -1207,6 +1207,14 @@
             }
         },
         {
+            "Key": "ff329a5a-b086-4346-a4c7-e1cf2b1c5e18",
+            "Value": {
+                "id": "e5861b7b-a789-47b8-acc1-6131fbe9d918",
+                "resourcePath": "sprites\\spr_hero_left\\spr_hero_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ffde39e9-f3de-46b8-bf89-e32567b4f871",
             "Value": {
                 "id": "d9c1795e-f5d5-49c7-b32d-9b823ab24f31",
