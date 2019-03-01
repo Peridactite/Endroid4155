@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 6B33E2E3
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "has_key2"
+has_key2 = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 453520AE
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "has_key"
