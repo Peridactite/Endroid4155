@@ -1,13 +1,13 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 1E518603
-/// @DnDArgument : "code" "if(instance_exists(obj_Player)){$(13_10)	if(!knockback){$(13_10)		// Set Point Direction towards player$(13_10)		direction = point_direction(x, y, obj_Player.x, obj_Player.y);	$(13_10)	} $(13_10)} else {$(13_10)	speed = 0;$(13_10)}$(13_10)$(13_10)// If this enemy's hp is depleted, add score to obj_controller$(13_10)// and destory this enemy instance$(13_10)if(enemyHealth <= 0){$(13_10)	// Destroy Instance$(13_10)	obj_controller.__dnd_score += 250;$(13_10)	instance_destroy();$(13_10)}"
+/// @DnDArgument : "code" "if(instance_exists(obj_Player)){$(13_10)	if(!knockback){$(13_10)		// Set Point Direction towards player$(13_10)		direction = point_direction(x, y, obj_Player.x, obj_Player.y);	 $(13_10)	} $(13_10)}else {$(13_10)	speed = 0;$(13_10)}$(13_10)$(13_10)// If this enemy's hp is depleted, add score to obj_controller$(13_10)// and destory this enemy instance$(13_10)if(enemyHealth <= 0){$(13_10)	// Destroy Instance$(13_10)	obj_controller.__dnd_score += 250;$(13_10)	instance_destroy();$(13_10)}"
 if(instance_exists(obj_Player)){
 	if(!knockback){
 		// Set Point Direction towards player
-		direction = point_direction(x, y, obj_Player.x, obj_Player.y);	
+		direction = point_direction(x, y, obj_Player.x, obj_Player.y);	 
 	} 
-} else {
+}else {
 	speed = 0;
 }
 

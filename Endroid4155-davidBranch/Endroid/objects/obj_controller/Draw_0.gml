@@ -21,9 +21,19 @@ draw_healthbar(40, 40, 110, 30, health, $FF000000 & $FFFFFF, $FF0000FF & $FFFFFF
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 draw_text(window_get_width() - 250, 40, string("Cores Collected: ") + string(__dnd_score));
 
+/// @DnDAction : YoYo Games.Instance Variables.Get_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 76F9454D
+/// @DnDApplyTo : 5cd5bcf8-447d-405c-8421-f5ef482070fa
+/// @DnDArgument : "var" "curr_Lives"
+with(obj_controller) {
+if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
+curr_Lives = __dnd_lives;
+}
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 54DCB909
-/// @DnDArgument : "code" "// Draw the current number of lives$(13_10)draw_text( (window_get_width() / 2) - 100, 40, "Reboots Remaining: " + string(lifes_remaining));"
+/// @DnDArgument : "code" "// Draw the current number of lives$(13_10)draw_text( (window_get_width() / 2) - 100, 40, "Reboots Remaining: " + string(curr_Lives));"
 // Draw the current number of lives
-draw_text( (window_get_width() / 2) - 100, 40, "Reboots Remaining: " + string(lifes_remaining));
+draw_text( (window_get_width() / 2) - 100, 40, "Reboots Remaining: " + string(curr_Lives));

@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "08554f26-3a66-4894-9f99-2887234eb845",
+            "Value": {
+                "id": "08f58ee3-c188-4ae5-9a6d-bf34fc5b2c0e",
+                "resourcePath": "views\\08554f26-3a66-4894-9f99-2887234eb845.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0d588ec0-517f-447c-a76f-0d314edf9288",
             "Value": {
                 "id": "fc7faa21-6de2-402b-9ad3-7626082053aa",
@@ -535,6 +543,14 @@
             }
         },
         {
+            "Key": "647dbb57-0ffb-415a-81fc-6b6d2c26a8b0",
+            "Value": {
+                "id": "0af94b3f-195c-403d-bd8d-b5cb49cd0d65",
+                "resourcePath": "sprites\\spr_LevelOneSpawner\\spr_LevelOneSpawner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6494ab44-3e66-4672-aae0-b922da8c584a",
             "Value": {
                 "id": "65d703f5-84b7-42dd-ab2c-d7bc870f7085",
@@ -947,6 +963,30 @@
             "Value": {
                 "id": "01f946a5-4ac3-4493-b274-9c7e5e691581",
                 "resourcePath": "sprites\\spr_tell1\\spr_tell1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6207cad-7875-4894-9f9b-0266a970e923",
+            "Value": {
+                "id": "00d35263-c0d7-4d01-bff7-c1114151655e",
+                "resourcePath": "objects\\obj_RoomOneEnemySpawner\\obj_RoomOneEnemySpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b6e36cfd-587b-4055-a3c8-aa22ba2cb699",
+            "Value": {
+                "id": "92455f02-b35e-4154-9dc8-f7a9bd3f5ede",
+                "resourcePath": "objects\\obj_RoomTwoEnemySpawner\\obj_RoomTwoEnemySpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b759008b-c60f-41aa-8693-0251da88ad30",
+            "Value": {
+                "id": "b8aea9d8-4019-4f99-a509-ac3875ec0047",
+                "resourcePath": "sprites\\spr_LevelTwoSpawner\\spr_LevelTwoSpawner.yy",
                 "resourceType": "GMSprite"
             }
         },
