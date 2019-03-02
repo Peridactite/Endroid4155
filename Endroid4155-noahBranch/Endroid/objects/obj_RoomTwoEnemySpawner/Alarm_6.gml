@@ -9,6 +9,17 @@
 /// @DnDSaveInfo : "objectid" "13a66c0c-17bd-423d-be59-12e18e6c0e1a"
 var spawned = instance_create_layer(x + 0, y + 0, "Instances", obj_enemyParent);
 
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 202AD8DB
+/// @DnDArgument : "xpos_relative" "1"
+/// @DnDArgument : "ypos_relative" "1"
+/// @DnDArgument : "var" "spawned"
+/// @DnDArgument : "var_temp" "1"
+/// @DnDArgument : "objectid" "obj_Slime"
+/// @DnDSaveInfo : "objectid" "85e4eb70-5127-461f-8e03-3a2b48c5a791"
+var spawned = instance_create_layer(x + 0, y + 0, "Instances", obj_Slime);
+
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
 /// @DnDHash : 70868EC2

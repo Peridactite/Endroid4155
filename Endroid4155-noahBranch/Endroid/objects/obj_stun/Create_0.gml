@@ -1,16 +1,16 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 06D4923E
-/// @DnDArgument : "expr" "20"
+/// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "stunSpeed"
-stunSpeed = 20;
+stunSpeed = 2;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 65F43EC5
-/// @DnDArgument : "expr" "300"
+/// @DnDArgument : "expr" "150"
 /// @DnDArgument : "var" "stunDuration"
-stunDuration = 300;
+stunDuration = 150;
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 /// @DnDVersion : 1

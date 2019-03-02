@@ -13,7 +13,8 @@
         "bf37c6de-0b6a-48a8-bcb8-029d4aeb853e",
         "4c003e2e-9174-401f-a23e-4ec1f574f1c8",
         "3dc78748-2964-47e6-a635-dbf0cf7628ed",
-        "4e892065-3fa8-4c33-a097-6ac4ae92f2c7"
+        "4e892065-3fa8-4c33-a097-6ac4ae92f2c7",
+        "46f52046-3383-49bf-97cc-6d72582ea33a"
     ],
     "filterType": "GMSprite",
     "folderName": "milo'sart",
